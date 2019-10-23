@@ -1,6 +1,6 @@
 # Quick Start Template for Gmail's API - With Python
 
-This easy-to-use template extends Google's Quickstart authentication template for Gmail.
+This easy-to-use template extends Google's Quickstart authentication template for Gmail, allowing you to create and send messages.
 
 ##Guide:
 
