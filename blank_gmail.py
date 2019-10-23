@@ -10,7 +10,7 @@ from email.mime.multipart import MIMEMultipart
 from apiclient import errors
 
 # If modifying these scopes, delete the file token.pickle.
-SCOPES = ["#"] #Enter scope here
+SCOPES = ["https://www.googleapis.com/auth/gmail.compose"] #Enter scope here
 
 #credentials function
 def credentials():
