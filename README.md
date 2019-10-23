@@ -12,14 +12,8 @@ Now, install the Google client library as follows:
 ```
 $ pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
 ```
-Next, download blank_gmail.py, and choose one of the necessary "scopes" from the [Gmail Api Website](https://developers.google.com/gmail/api/auth/scopes).
-Fill in the SCOPES variable with your choice.
 
-```python3
-SCOPES = ["https://www.googleapis.com/auth/gmail.compose"]
-```
-
-Now, fill in the following variables with the message you want to send, the subject of your email, the sender (the account you used
+Then, fill in the following variables with the message you want to send, the subject of your email, the sender (the account you used
 to get the authentication credentials), and the recipient of your email.
 
 ```python3
