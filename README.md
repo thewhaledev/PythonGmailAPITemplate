@@ -16,7 +16,7 @@ Next, download blank_gmail.py, and choose one of the necessary "scopes" from the
 Fill in the SCOPES variable with your choice.
 
 ```python3
-SCOPES = ["YOUR CHOICE GOES HERE"]
+SCOPES = ["https://www.googleapis.com/auth/gmail.compose"]
 ```
 
 Now, fill in the following variables with the message you want to send, the subject of your email, the sender (the account you used
