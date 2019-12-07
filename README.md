@@ -2,7 +2,7 @@
 
 This easy-to-use template extends Google's Quickstart authentication template for Gmail, allowing you to create and send messages.
 
-##Guide:
+## Guide:
 
 Firstly, go to [Gmail Quickstart](https://developers.google.com/gmail/api/quickstart/python) template for Python, and follow the
 steps to receive your credentials.json file, store it in a blank directory of your choosing.
